@@ -1,0 +1,452 @@
+/********************************************************************************
+** Form generated from reading UI file 'locat_range.ui'
+**
+** Created by: Qt User Interface Compiler version 5.10.1
+**
+** WARNING! All changes made in this file will be lost when recompiling UI file!
+********************************************************************************/
+
+#ifndef UI_LOCAT_RANGE_H
+#define UI_LOCAT_RANGE_H
+
+#include <QtCore/QVariant>
+#include <QtWidgets/QAction>
+#include <QtWidgets/QApplication>
+#include <QtWidgets/QButtonGroup>
+#include <QtWidgets/QFrame>
+#include <QtWidgets/QHeaderView>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QWidget>
+
+QT_BEGIN_NAMESPACE
+
+class Ui_locat_range
+{
+public:
+    QFrame *line;
+    QLabel *label;
+    QLabel *label_2;
+    QLabel *label_3;
+    QLabel *label_4;
+    QLabel *label_5;
+    QLabel *label_16;
+    QLabel *label_6;
+    QLabel *label_7;
+    QLabel *label_8;
+    QLabel *label_9;
+    QLabel *label_10;
+    QLabel *label_11;
+    QLabel *label_12;
+    QLabel *label_13;
+    QLabel *label_14;
+    QLabel *label_15;
+    QLabel *label_17;
+    QLabel *label_18;
+    QLabel *label_19;
+    QLabel *label_20;
+    QLabel *label_21;
+    QLabel *label_22;
+    QLabel *label_23;
+    QLabel *label_24;
+    QLabel *label_25;
+    QLabel *label_26;
+    QLabel *label_28;
+    QLabel *label_29;
+    QLabel *label_30;
+    QLabel *label_31;
+    QLabel *label_32;
+    QLabel *label_33;
+    QLabel *label_34;
+    QLabel *label_35;
+    QLabel *label_36;
+    QLabel *label_37;
+    QLabel *label_38;
+    QLabel *label_39;
+    QLabel *label_40;
+    QLabel *label_41;
+    QLabel *label_42;
+    QLabel *label_43;
+    QLabel *label_44;
+    QLabel *label_45;
+    QLabel *label_46;
+    QLabel *label_47;
+    QLabel *label_48;
+    QLabel *label_49;
+    QLabel *label_50;
+    QLabel *label_51;
+    QLabel *label_52;
+    QLabel *label_53;
+    QLabel *label_54;
+    QLabel *label_55;
+    QLabel *label_56;
+    QLabel *label_57;
+    QLabel *label_58;
+    QLabel *label_59;
+    QLabel *label_60;
+    QLabel *label_61;
+    QLabel *label_62;
+    QLabel *label_63;
+    QLabel *label_64;
+    QLabel *label_65;
+    QLabel *label_66;
+    QLabel *label_67;
+    QLabel *label_68;
+    QLabel *label_27;
+
+    void setupUi(QWidget *locat_range)
+    {
+        if (locat_range->objectName().isEmpty())
+            locat_range->setObjectName(QStringLiteral("locat_range"));
+        locat_range->resize(762, 331);
+        line = new QFrame(locat_range);
+        line->setObjectName(QStringLiteral("line"));
+        line->setGeometry(QRect(9, 20, 741, 21));
+        line->setStyleSheet(QStringLiteral("border-color:3px  rgb(114, 159, 207);"));
+        line->setFrameShape(QFrame::HLine);
+        line->setFrameShadow(QFrame::Sunken);
+        label = new QLabel(locat_range);
+        label->setObjectName(QStringLiteral("label"));
+        label->setGeometry(QRect(9, 6, 67, 21));
+        label_2 = new QLabel(locat_range);
+        label_2->setObjectName(QStringLiteral("label_2"));
+        label_2->setGeometry(QRect(159, 6, 67, 21));
+        label_3 = new QLabel(locat_range);
+        label_3->setObjectName(QStringLiteral("label_3"));
+        label_3->setGeometry(QRect(309, 6, 67, 21));
+        label_4 = new QLabel(locat_range);
+        label_4->setObjectName(QStringLiteral("label_4"));
+        label_4->setGeometry(QRect(539, 6, 67, 21));
+        label_5 = new QLabel(locat_range);
+        label_5->setObjectName(QStringLiteral("label_5"));
+        label_5->setGeometry(QRect(9, 80, 67, 17));
+        label_16 = new QLabel(locat_range);
+        label_16->setObjectName(QStringLiteral("label_16"));
+        label_16->setGeometry(QRect(199, 70, 20, 31));
+        label_6 = new QLabel(locat_range);
+        label_6->setObjectName(QStringLiteral("label_6"));
+        label_6->setGeometry(QRect(9, 120, 67, 17));
+        label_7 = new QLabel(locat_range);
+        label_7->setObjectName(QStringLiteral("label_7"));
+        label_7->setGeometry(QRect(9, 160, 67, 17));
+        label_8 = new QLabel(locat_range);
+        label_8->setObjectName(QStringLiteral("label_8"));
+        label_8->setGeometry(QRect(9, 200, 67, 17));
+        label_9 = new QLabel(locat_range);
+        label_9->setObjectName(QStringLiteral("label_9"));
+        label_9->setGeometry(QRect(9, 240, 67, 17));
+        label_10 = new QLabel(locat_range);
+        label_10->setObjectName(QStringLiteral("label_10"));
+        label_10->setGeometry(QRect(9, 280, 67, 17));
+        label_11 = new QLabel(locat_range);
+        label_11->setObjectName(QStringLiteral("label_11"));
+        label_11->setGeometry(QRect(99, 80, 67, 17));
+        label_12 = new QLabel(locat_range);
+        label_12->setObjectName(QStringLiteral("label_12"));
+        label_12->setGeometry(QRect(169, 77, 31, 20));
+        label_13 = new QLabel(locat_range);
+        label_13->setObjectName(QStringLiteral("label_13"));
+        label_13->setGeometry(QRect(139, 80, 20, 20));
+        label_13->setFrameShape(QFrame::HLine);
+        label_14 = new QLabel(locat_range);
+        label_14->setObjectName(QStringLiteral("label_14"));
+        label_14->setGeometry(QRect(99, 120, 30, 17));
+        label_15 = new QLabel(locat_range);
+        label_15->setObjectName(QStringLiteral("label_15"));
+        label_15->setGeometry(QRect(169, 120, 26, 17));
+        label_17 = new QLabel(locat_range);
+        label_17->setObjectName(QStringLiteral("label_17"));
+        label_17->setGeometry(QRect(139, 120, 21, 19));
+        label_17->setFrameShape(QFrame::HLine);
+        label_18 = new QLabel(locat_range);
+        label_18->setObjectName(QStringLiteral("label_18"));
+        label_18->setGeometry(QRect(199, 120, 16, 17));
+        label_19 = new QLabel(locat_range);
+        label_19->setObjectName(QStringLiteral("label_19"));
+        label_19->setGeometry(QRect(99, 150, 31, 41));
+        label_20 = new QLabel(locat_range);
+        label_20->setObjectName(QStringLiteral("label_20"));
+        label_20->setGeometry(QRect(169, 160, 26, 17));
+        label_21 = new QLabel(locat_range);
+        label_21->setObjectName(QStringLiteral("label_21"));
+        label_21->setGeometry(QRect(139, 160, 21, 21));
+        label_21->setFrameShape(QFrame::HLine);
+        label_22 = new QLabel(locat_range);
+        label_22->setObjectName(QStringLiteral("label_22"));
+        label_22->setGeometry(QRect(199, 160, 16, 17));
+        label_23 = new QLabel(locat_range);
+        label_23->setObjectName(QStringLiteral("label_23"));
+        label_23->setGeometry(QRect(99, 200, 30, 17));
+        label_24 = new QLabel(locat_range);
+        label_24->setObjectName(QStringLiteral("label_24"));
+        label_24->setGeometry(QRect(169, 200, 26, 17));
+        label_25 = new QLabel(locat_range);
+        label_25->setObjectName(QStringLiteral("label_25"));
+        label_25->setGeometry(QRect(139, 200, 21, 19));
+        label_25->setFrameShape(QFrame::HLine);
+        label_26 = new QLabel(locat_range);
+        label_26->setObjectName(QStringLiteral("label_26"));
+        label_26->setGeometry(QRect(199, 200, 16, 17));
+        label_28 = new QLabel(locat_range);
+        label_28->setObjectName(QStringLiteral("label_28"));
+        label_28->setGeometry(QRect(169, 240, 26, 17));
+        label_29 = new QLabel(locat_range);
+        label_29->setObjectName(QStringLiteral("label_29"));
+        label_29->setGeometry(QRect(139, 240, 21, 19));
+        label_29->setFrameShape(QFrame::HLine);
+        label_30 = new QLabel(locat_range);
+        label_30->setObjectName(QStringLiteral("label_30"));
+        label_30->setGeometry(QRect(199, 240, 16, 17));
+        label_31 = new QLabel(locat_range);
+        label_31->setObjectName(QStringLiteral("label_31"));
+        label_31->setGeometry(QRect(100, 281, 30, 17));
+        label_32 = new QLabel(locat_range);
+        label_32->setObjectName(QStringLiteral("label_32"));
+        label_32->setGeometry(QRect(169, 280, 26, 17));
+        label_33 = new QLabel(locat_range);
+        label_33->setObjectName(QStringLiteral("label_33"));
+        label_33->setGeometry(QRect(139, 280, 21, 19));
+        label_33->setFrameShape(QFrame::HLine);
+        label_34 = new QLabel(locat_range);
+        label_34->setObjectName(QStringLiteral("label_34"));
+        label_34->setGeometry(QRect(199, 280, 16, 17));
+        label_35 = new QLabel(locat_range);
+        label_35->setObjectName(QStringLiteral("label_35"));
+        label_35->setGeometry(QRect(249, 40, 67, 17));
+        label_36 = new QLabel(locat_range);
+        label_36->setObjectName(QStringLiteral("label_36"));
+        label_36->setGeometry(QRect(359, 40, 67, 17));
+        label_37 = new QLabel(locat_range);
+        label_37->setObjectName(QStringLiteral("label_37"));
+        label_37->setGeometry(QRect(230, 80, 91, 21));
+        label_37->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_37->setFrameShape(QFrame::Panel);
+        label_38 = new QLabel(locat_range);
+        label_38->setObjectName(QStringLiteral("label_38"));
+        label_38->setGeometry(QRect(230, 120, 91, 21));
+        label_38->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_38->setFrameShape(QFrame::Panel);
+        label_39 = new QLabel(locat_range);
+        label_39->setObjectName(QStringLiteral("label_39"));
+        label_39->setGeometry(QRect(230, 160, 91, 21));
+        label_39->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_39->setFrameShape(QFrame::Panel);
+        label_40 = new QLabel(locat_range);
+        label_40->setObjectName(QStringLiteral("label_40"));
+        label_40->setGeometry(QRect(230, 200, 91, 21));
+        label_40->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_40->setFrameShape(QFrame::Panel);
+        label_41 = new QLabel(locat_range);
+        label_41->setObjectName(QStringLiteral("label_41"));
+        label_41->setGeometry(QRect(230, 240, 91, 21));
+        label_41->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_41->setFrameShape(QFrame::Panel);
+        label_42 = new QLabel(locat_range);
+        label_42->setObjectName(QStringLiteral("label_42"));
+        label_42->setGeometry(QRect(230, 280, 91, 21));
+        label_42->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_42->setFrameShape(QFrame::Panel);
+        label_43 = new QLabel(locat_range);
+        label_43->setObjectName(QStringLiteral("label_43"));
+        label_43->setGeometry(QRect(340, 80, 91, 21));
+        label_43->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_43->setFrameShape(QFrame::Panel);
+        label_44 = new QLabel(locat_range);
+        label_44->setObjectName(QStringLiteral("label_44"));
+        label_44->setGeometry(QRect(340, 120, 91, 21));
+        label_44->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_44->setFrameShape(QFrame::Panel);
+        label_45 = new QLabel(locat_range);
+        label_45->setObjectName(QStringLiteral("label_45"));
+        label_45->setGeometry(QRect(340, 160, 91, 21));
+        label_45->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_45->setFrameShape(QFrame::Panel);
+        label_46 = new QLabel(locat_range);
+        label_46->setObjectName(QStringLiteral("label_46"));
+        label_46->setGeometry(QRect(340, 200, 91, 21));
+        label_46->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_46->setFrameShape(QFrame::Panel);
+        label_47 = new QLabel(locat_range);
+        label_47->setObjectName(QStringLiteral("label_47"));
+        label_47->setGeometry(QRect(340, 280, 91, 21));
+        label_47->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_47->setFrameShape(QFrame::Panel);
+        label_48 = new QLabel(locat_range);
+        label_48->setObjectName(QStringLiteral("label_48"));
+        label_48->setGeometry(QRect(340, 240, 91, 21));
+        label_48->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_48->setFrameShape(QFrame::Panel);
+        label_49 = new QLabel(locat_range);
+        label_49->setObjectName(QStringLiteral("label_49"));
+        label_49->setGeometry(QRect(450, 200, 91, 21));
+        label_49->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_49->setFrameShape(QFrame::StyledPanel);
+        label_50 = new QLabel(locat_range);
+        label_50->setObjectName(QStringLiteral("label_50"));
+        label_50->setGeometry(QRect(450, 280, 91, 21));
+        label_50->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_50->setFrameShape(QFrame::StyledPanel);
+        label_51 = new QLabel(locat_range);
+        label_51->setObjectName(QStringLiteral("label_51"));
+        label_51->setGeometry(QRect(480, 40, 67, 17));
+        label_52 = new QLabel(locat_range);
+        label_52->setObjectName(QStringLiteral("label_52"));
+        label_52->setGeometry(QRect(590, 40, 67, 17));
+        label_53 = new QLabel(locat_range);
+        label_53->setObjectName(QStringLiteral("label_53"));
+        label_53->setGeometry(QRect(450, 120, 91, 21));
+        label_53->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_53->setFrameShape(QFrame::StyledPanel);
+        label_54 = new QLabel(locat_range);
+        label_54->setObjectName(QStringLiteral("label_54"));
+        label_54->setGeometry(QRect(560, 240, 91, 21));
+        label_54->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_54->setFrameShape(QFrame::StyledPanel);
+        label_55 = new QLabel(locat_range);
+        label_55->setObjectName(QStringLiteral("label_55"));
+        label_55->setGeometry(QRect(450, 80, 91, 21));
+        label_55->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_55->setFrameShape(QFrame::StyledPanel);
+        label_56 = new QLabel(locat_range);
+        label_56->setObjectName(QStringLiteral("label_56"));
+        label_56->setGeometry(QRect(560, 200, 91, 21));
+        label_56->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_56->setFrameShape(QFrame::StyledPanel);
+        label_57 = new QLabel(locat_range);
+        label_57->setObjectName(QStringLiteral("label_57"));
+        label_57->setGeometry(QRect(560, 280, 91, 21));
+        label_57->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_57->setFrameShape(QFrame::StyledPanel);
+        label_58 = new QLabel(locat_range);
+        label_58->setObjectName(QStringLiteral("label_58"));
+        label_58->setGeometry(QRect(560, 160, 91, 21));
+        label_58->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_58->setFrameShape(QFrame::StyledPanel);
+        label_59 = new QLabel(locat_range);
+        label_59->setObjectName(QStringLiteral("label_59"));
+        label_59->setGeometry(QRect(560, 80, 91, 21));
+        label_59->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_59->setFrameShape(QFrame::StyledPanel);
+        label_60 = new QLabel(locat_range);
+        label_60->setObjectName(QStringLiteral("label_60"));
+        label_60->setGeometry(QRect(560, 120, 91, 21));
+        label_60->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_60->setFrameShape(QFrame::StyledPanel);
+        label_61 = new QLabel(locat_range);
+        label_61->setObjectName(QStringLiteral("label_61"));
+        label_61->setGeometry(QRect(450, 160, 91, 21));
+        label_61->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_61->setFrameShape(QFrame::StyledPanel);
+        label_62 = new QLabel(locat_range);
+        label_62->setObjectName(QStringLiteral("label_62"));
+        label_62->setGeometry(QRect(450, 240, 91, 21));
+        label_62->setStyleSheet(QStringLiteral("background-color: rgb(238, 238, 236);"));
+        label_62->setFrameShape(QFrame::StyledPanel);
+        label_63 = new QLabel(locat_range);
+        label_63->setObjectName(QStringLiteral("label_63"));
+        label_63->setGeometry(QRect(670, 80, 67, 17));
+        label_64 = new QLabel(locat_range);
+        label_64->setObjectName(QStringLiteral("label_64"));
+        label_64->setGeometry(QRect(670, 120, 67, 17));
+        label_65 = new QLabel(locat_range);
+        label_65->setObjectName(QStringLiteral("label_65"));
+        label_65->setGeometry(QRect(670, 160, 67, 17));
+        label_66 = new QLabel(locat_range);
+        label_66->setObjectName(QStringLiteral("label_66"));
+        label_66->setGeometry(QRect(670, 200, 67, 17));
+        label_67 = new QLabel(locat_range);
+        label_67->setObjectName(QStringLiteral("label_67"));
+        label_67->setGeometry(QRect(670, 280, 67, 17));
+        label_68 = new QLabel(locat_range);
+        label_68->setObjectName(QStringLiteral("label_68"));
+        label_68->setGeometry(QRect(670, 240, 67, 17));
+        label_27 = new QLabel(locat_range);
+        label_27->setObjectName(QStringLiteral("label_27"));
+        label_27->setGeometry(QRect(100, 241, 31, 16));
+
+        retranslateUi(locat_range);
+
+        QMetaObject::connectSlotsByName(locat_range);
+    } // setupUi
+
+    void retranslateUi(QWidget *locat_range)
+    {
+        locat_range->setWindowTitle(QApplication::translate("locat_range", "Form", nullptr));
+        label->setText(QApplication::translate("locat_range", "<html><head/><body><p><span style=\" font-weight:600;\">\345\205\263\350\212\202</span></p></body></html>", nullptr));
+        label_2->setText(QApplication::translate("locat_range", "<html><head/><body><p><span style=\" font-weight:600;\">\350\214\203\345\233\264</span></p></body></html>", nullptr));
+        label_3->setText(QApplication::translate("locat_range", "<html><head/><body><p><span style=\" font-weight:600;\">\346\255\243\345\270\270\346\250\241\345\274\217</span></p></body></html>", nullptr));
+        label_4->setText(QApplication::translate("locat_range", "<html><head/><body><p><span style=\" font-weight:600;\">\347\274\251\345\207\217\346\250\241\345\274\217</span></p></body></html>", nullptr));
+        label_5->setText(QApplication::translate("locat_range", "\346\234\272\345\272\247", nullptr));
+        label_16->setText(QApplication::translate("locat_range", "\302\260", nullptr));
+        label_6->setText(QApplication::translate("locat_range", "\350\202\251\351\203\250", nullptr));
+        label_7->setText(QApplication::translate("locat_range", "\350\202\230\351\203\250", nullptr));
+        label_8->setText(QApplication::translate("locat_range", "\346\211\213\350\205\2251", nullptr));
+        label_9->setText(QApplication::translate("locat_range", "\346\211\213\350\205\2252", nullptr));
+        label_10->setText(QApplication::translate("locat_range", "\346\211\213\350\205\2253", nullptr));
+        label_11->setText(QApplication::translate("locat_range", "-363", nullptr));
+        label_12->setText(QApplication::translate("locat_range", "363", nullptr));
+        label_13->setText(QString());
+        label_14->setText(QApplication::translate("locat_range", "-363", nullptr));
+        label_15->setText(QApplication::translate("locat_range", "363", nullptr));
+        label_17->setText(QString());
+        label_18->setText(QApplication::translate("locat_range", "\302\260", nullptr));
+        label_19->setText(QApplication::translate("locat_range", "-363", nullptr));
+        label_20->setText(QApplication::translate("locat_range", "363", nullptr));
+        label_21->setText(QString());
+        label_22->setText(QApplication::translate("locat_range", "\302\260", nullptr));
+        label_23->setText(QApplication::translate("locat_range", "-363", nullptr));
+        label_24->setText(QApplication::translate("locat_range", "363", nullptr));
+        label_25->setText(QString());
+        label_26->setText(QApplication::translate("locat_range", "\302\260", nullptr));
+        label_28->setText(QApplication::translate("locat_range", "363", nullptr));
+        label_29->setText(QString());
+        label_30->setText(QApplication::translate("locat_range", "\302\260", nullptr));
+        label_31->setText(QApplication::translate("locat_range", "-363", nullptr));
+        label_32->setText(QApplication::translate("locat_range", "363", nullptr));
+        label_33->setText(QString());
+        label_34->setText(QApplication::translate("locat_range", "\302\260", nullptr));
+        label_35->setText(QApplication::translate("locat_range", "\346\234\200\345\260\217", nullptr));
+        label_36->setText(QApplication::translate("locat_range", "\346\234\200\345\244\247", nullptr));
+        label_37->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\">-363</p></body></html>", nullptr));
+        label_38->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\">-363</p></body></html>", nullptr));
+        label_39->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\">-363</p></body></html>", nullptr));
+        label_40->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\">-363</p></body></html>", nullptr));
+        label_41->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\">-363</p></body></html>", nullptr));
+        label_42->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\">-363</p></body></html>", nullptr));
+        label_43->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\">363</p></body></html>", nullptr));
+        label_44->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\">363</p></body></html>", nullptr));
+        label_45->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\">363</p></body></html>", nullptr));
+        label_46->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\">363</p></body></html>", nullptr));
+        label_47->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\">363</p></body></html>", nullptr));
+        label_48->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\">363</p></body></html>", nullptr));
+        label_49->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\"><span style=\" color:#729fcf;\">-363</span></p></body></html>", nullptr));
+        label_50->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\"><span style=\" color:#729fcf;\">-363</span></p></body></html>", nullptr));
+        label_51->setText(QApplication::translate("locat_range", "\346\234\200\345\260\217", nullptr));
+        label_52->setText(QApplication::translate("locat_range", "\346\234\200\345\244\247", nullptr));
+        label_53->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\"><span style=\" color:#729fcf;\">-363</span></p></body></html>", nullptr));
+        label_54->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\"><span style=\" color:#729fcf;\">-363</span></p></body></html>", nullptr));
+        label_55->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\"><span style=\" color:#729fcf;\">-363</span></p></body></html>", nullptr));
+        label_56->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\"><span style=\" color:#729fcf;\">-363</span></p></body></html>", nullptr));
+        label_57->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\"><span style=\" color:#729fcf;\">-363</span></p></body></html>", nullptr));
+        label_58->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\"><span style=\" color:#729fcf;\">-363</span></p></body></html>", nullptr));
+        label_59->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\"><span style=\" color:#729fcf;\">-363</span></p></body></html>", nullptr));
+        label_60->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\"><span style=\" color:#729fcf;\">-363</span></p></body></html>", nullptr));
+        label_61->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\"><span style=\" color:#729fcf;\">-363</span></p></body></html>", nullptr));
+        label_62->setText(QApplication::translate("locat_range", "<html><head/><body><p align=\"right\"><span style=\" color:#729fcf;\">-363</span></p></body></html>", nullptr));
+        label_63->setText(QApplication::translate("locat_range", "+3 \302\260 / -3 \302\260", nullptr));
+        label_64->setText(QApplication::translate("locat_range", "+3 \302\260 / -3 \302\260", nullptr));
+        label_65->setText(QApplication::translate("locat_range", "+3 \302\260 / -3 \302\260", nullptr));
+        label_66->setText(QApplication::translate("locat_range", "+3 \302\260 / -3 \302\260", nullptr));
+        label_67->setText(QApplication::translate("locat_range", "+3 \302\260 / -3 \302\260", nullptr));
+        label_68->setText(QApplication::translate("locat_range", "+3 \302\260 / -3 \302\260", nullptr));
+        label_27->setText(QApplication::translate("locat_range", "-363", nullptr));
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class locat_range: public Ui_locat_range {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_LOCAT_RANGE_H
